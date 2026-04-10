@@ -23,3 +23,20 @@
 </p>
 
 ---
+
+### 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Aksfielg/SignLapse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aksfielg&repo=SignLapse&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Aksfielg/MarketLens-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aksfielg&repo=MarketLens-AI&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Aksfielg/code-review-env">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aksfielg&repo=code-review-env&theme=tokyonight" />
+  </a>
+</p>
