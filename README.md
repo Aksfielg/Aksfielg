@@ -25,7 +25,7 @@
 ### ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A9FB5&center=true&vCenter=true&width=600&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.;First%2C+solve+the+problem.+Then%2C+write+the+code.;Any+fool+can+write+code+that+a+computer+can+understand." alt="Dev quotes" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
