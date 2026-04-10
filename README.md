@@ -11,12 +11,13 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aksfielg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aksfielg&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aksfielg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="180"/>
+  
+  <img src="https://streak-stats.demolab.com?user=Aksfielg&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksfielg&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksfielg&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
@@ -29,22 +30,21 @@
 
 ---
 
-
 ### 🚀 Featured Projects
 
 <p align="center">
   <a href="https://github.com/Aksfielg/SignLapse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aksfielg&repo=SignLapse&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aksfielg&repo=SignLapse&theme=tokyonight&cache_seconds=86400" />
   </a>
+
   <a href="https://github.com/Aksfielg/MarketLens-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aksfielg&repo=MarketLens-AI&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aksfielg&repo=MarketLens-AI&theme=tokyonight&cache_seconds=86400" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Aksfielg/code-review-env">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aksfielg&repo=code-review-env&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aksfielg&repo=code-review-env&theme=tokyonight&cache_seconds=86400" />
   </a>
 </p>
-
 <!-- Proudly created with GPRM -->
