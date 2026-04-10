@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Rishabh Kumar  <br><br>🚀 Computer Science Undergraduate at DTU | Full Stack + AI Developer  <br><br>I’m passionate about building high-performance systems and AI-driven applications that solve real-world problems.  <br><br>I have experience developing full-stack applications using React, Next.js, Node.js, and FastAPI, and have worked on scalable systems involving real-time data, distributed architectures, and cloud deployment. My projects include **SignLapse** (AI-based sign language translator), **MarketLens-AI** (intelligent stock analysis platform), and **Code Review Env** (RL-based AI system for automated code review), reflecting my interest in combining software engineering with AI to build impactful solutions.  <br><br>I am a National-level Hackathon winner and a LeetCode Knight (Top ~5%, 400+ problems), demonstrating strong problem-solving skills and a solid foundation in DSA, OOP, and System Design.  <br><br>I am currently exploring advanced AI/ML systems, backend scalability, and DevOps practices, aiming to contribute to cutting-edge technology and high-impact products.
+👋 Hi, I'm Rishabh Kumar  <br><br>🚀 Computer Science Undergraduate at DTU | Full Stack + AI Developer  <br><br>I'm passionate about building high-performance systems and AI-driven applications that solve real-world problems.  <br><br>I have experience developing full-stack applications using React, Next.js, Node.js, and FastAPI, and have worked on scalable systems involving real-time data, distributed architectures, and cloud deployment. My projects include **SignLapse** (AI-based sign language translator), **MarketLens-AI** (intelligent stock analysis platform), and **Code Review Env** (RL-based AI system for automated code review), reflecting my interest in combining software engineering with AI to build impactful solutions.  <br><br>I am a National-level Hackathon winner and a LeetCode Knight (Top ~5%, 400+ problems), demonstrating strong problem-solving skills and a solid foundation in DSA, OOP, and System Design.  <br><br>I am currently exploring advanced AI/ML systems, backend scalability, and DevOps practices, aiming to contribute to cutting-edge technology and high-impact products.
 
 
 ## 🌐 Socials:
@@ -11,13 +11,13 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aksfielg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="180"/>
-  
-  <img src="https://streak-stats.demolab.com?user=Aksfielg&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aksfielg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aksfielg&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksfielg&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksfielg&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
@@ -25,7 +25,7 @@
 ### ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
