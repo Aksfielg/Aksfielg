@@ -30,14 +30,4 @@
 
 ---
 
-### 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aksfielg&repo=SignLapse&theme=tokyonight&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aksfielg&repo=MarketLens-AI&theme=tokyonight&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aksfielg&repo=code-review-env&theme=tokyonight&cache_seconds=86400" />
-</p>
-<!-- Proudly created with GPRM -->
