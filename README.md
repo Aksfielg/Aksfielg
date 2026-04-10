@@ -24,15 +24,27 @@
 ### ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
 
-### 🔝 Top Contributed Repo
+
+### 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Aksfielg&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <a href="https://github.com/Aksfielg/SignLapse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aksfielg&repo=SignLapse&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Aksfielg/MarketLens-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aksfielg&repo=MarketLens-AI&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Aksfielg/code-review-env">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aksfielg&repo=code-review-env&theme=tokyonight" />
+  </a>
 </p>
 
 <!-- Proudly created with GPRM -->
