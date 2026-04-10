@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aksfielg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aksfielg&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Aksfielg&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
 </p>
 
 <p align="center">
