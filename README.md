@@ -19,4 +19,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksfielg&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
+
+---
+
+### ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&cache_seconds=86400" />
+</p>
+
 ---
